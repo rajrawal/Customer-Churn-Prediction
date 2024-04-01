@@ -1,3 +1,5 @@
+# Predictive Analysis of Sales Data:
+Dataset used: https://www.kaggle.com/datasets/shivan118/big-mart-sales-prediction-datasets/data
 # About Dataset
 ## Sales Prediction for Big Mart Outlets
 The data scientists at BigMart have collected 2013 sales data for 1559 products across 10 stores in different cities. Also, certain attributes of each product and store have been defined. The aim is to build a predictive model and predict the sales of each product at a particular outlet.
