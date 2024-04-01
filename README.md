@@ -48,7 +48,7 @@ Each row represents a customer, each column contains customer’s attributes des
 * **pip install scikit-learn**
 
 ### classification Model :
-I have use SVM model for this classification because its gives the best prediction  With a accuracy of 80.57%.
+I have use SVM model for this classification because its gives the best prediction  With a accuracy of **80.57%**.
 <br>**About support vector machine(SVM) Model :**
 * **Margin Maximization:** SVM finds the hyperplane that maximizes the margin between classes, promoting better generalization.
 * **Kernel Trick:** It can handle non-linear data by mapping it to a higher-dimensional space using kernel functions.
